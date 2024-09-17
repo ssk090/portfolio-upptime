@@ -4,17 +4,19 @@
     "url": "https://shivanandasai.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/shivanandasai.vercel.app.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 50,
-    "timeWeek": 112,
-    "timeMonth": 128,
-    "timeYear": 128,
-    "dailyMinutesDown": {}
+    "time": 123,
+    "timeDay": 62,
+    "timeWeek": 108,
+    "timeMonth": 123,
+    "timeYear": 123,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   }
 ]
